@@ -72,6 +72,3 @@ Características Implementadas
 - Iluminación activable
 - Texturizado
 - Cambio de proyección (perspectiva / ortográfica)
-
-Autor
-Alan PV
